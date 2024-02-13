@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"LED1, LED2, LED3, LED4, LED5, LED6",6," NeoPixel Strip 4"
+"DIST4",1," Ultrasonic Distance Sensor (4-pin)"
